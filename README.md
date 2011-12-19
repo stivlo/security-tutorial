@@ -9,6 +9,7 @@ Additional useful links:
 * [Spring Security Tutorial description and other resources](http://static.springsource.org/spring-security/site/start-here.html)
 * [Spring security full source code, including this sample application](http://static.springsource.org/spring-security/site/source.html) (without my modifications)
 * [GitHub page containing this source code](https://github.com/stivlo/security-tutorial)
+* [Changes made to mavenize the project](http://www.stefanolocati.it/blog/?p=1148)
 
 Easy way to start the test application:
 
