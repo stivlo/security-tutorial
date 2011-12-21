@@ -20,5 +20,5 @@ or
     $ mvn tomcat:run
 
 The 'scripts' directory contains simple Unix command-line scripts for exercising the application and displaying the results.
-
+In 'src/main/resources/log4j.properties', I've set a logging level of DEBUG, for Spring Security. It contains a lot of information and should be disabled in production because it may contain sensitive information.
 
